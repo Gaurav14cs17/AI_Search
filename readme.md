@@ -3,8 +3,7 @@
 The eight puzzle solver finds solution paths to the classic eight puzzle
 algorithmically using a-star search and local beam search. 
 
-## Author: William Koehrsen
-## Date: September 20, 2017
+
 
 ## Requirements
 
